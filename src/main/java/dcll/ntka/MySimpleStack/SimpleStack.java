@@ -4,6 +4,7 @@ import java.util.EmptyStackException;
 
 /**
  * Created by Kevin on 24/02/2016.
+ * Exigence 1 realisée
         */
 public interface SimpleStack { /**
  * Tests if this stack is empty */
