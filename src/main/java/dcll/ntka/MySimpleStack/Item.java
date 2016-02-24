@@ -8,5 +8,9 @@ import java.util.EmptyStackException;
 public class Item {
 
 
+    
 }
 
+public Object getValue() {
+        return value;
+    }
